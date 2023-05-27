@@ -1,0 +1,18 @@
+.content {
+  height: 100vh;
+  background-color: #344653;
+  scroll-behavior: smooth;
+}
+
+.sideNav {
+  background-color: #344653;
+  color: #ffffff;
+  padding: 3% 1%;
+}
+
+.pageContent {
+  background-color: #27374d;
+  color: #ffffff;
+  border-top-left-radius: 1%;
+  padding: 3%;
+}
