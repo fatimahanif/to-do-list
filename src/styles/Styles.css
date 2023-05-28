@@ -16,3 +16,35 @@
   border-top-left-radius: 1%;
   padding: 3%;
 }
+
+.navList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navListItem {
+  padding: 3%;
+
+}
+
+.link {
+  color: #ffffff;
+}
+
+.link:hover {
+  color: #b8b8b8;
+  text-decoration: underline;
+}
+
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  align-items: center;
+  align-self: center;
+}
+.notFoundText {
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-top: 2%;
+}
